@@ -5,7 +5,7 @@
 
  <div>
   <a href="https://github.com/redeffy">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=790b76110d00028697eb250226d8faac267bf5c56892055b&rid=giphy.gif&ct=g" width="450px" height="450px">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=790b76110d00028697eb250226d8faac267bf5c56892055b&rid=giphy.gif&ct=g" width="400px" height="400px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeffy&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
