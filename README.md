@@ -1,6 +1,5 @@
-## Hello, hello! Eu sou a Nathalia Milani 🧚‍♀️
-<p> Sou uma pessoa curiosa que ama um bom desafio! 💪 </p>
-<p> Uma dev júnior engajada !🚀 </p>
+## Hello, hello! I am Nathalia Milani 🧚‍♀️
+<p> I am a curious person who loves a good challenge! 💪 🚀 </p>
 
 
  <div>
@@ -16,21 +15,13 @@
 <div id="about">
   <p><strong>Sobre mim!</strong></p>
   <ul>
-    <li> Tenho 26 anos. 👩 </li>
-    <li> Estou em transição de carreira, já trabalhei como professora de música, 🎼 já viajei pelo mundo trabalhando em navio. 🛳️ </li>
-    <li>Inclusão, respeito e empatia são valores importantíssimos que sempre levo comigo. ❤️</li>
+    <li> From Brazil. 🇧🇷 </li>
+    <li> I am 28. 👩 </li>
+    <li> I am in career transition, I have worked as a music teacher, 🎼 I have travelled the world working on a ship. 🛳️ </li>
+    <li> And currently studying Computer Science in Vienna! 👩‍💻🎓 </li>
+    <li>Inclusion, respect and empathy are very important values that I always carry with me. 🌸 ❤️</li>
   </ul>
 </div>
-
-##
-
-<div id="study">
-  <p><strong> Sobre meus conhecimentos! </strong></p>
-  <ul>
-  <li> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Gama Academy! </li>
-  <li> Fiz parte de um programa de bolsas da Ambev Tech + Gama Academy  e fiquei apaixonada por tecnologia!</li>
-</ul>
- </div>
 
 ##
 
